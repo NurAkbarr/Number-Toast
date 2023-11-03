@@ -271,9 +271,9 @@ Activity pada Android Studio adalah komponen yang menyediakan antarmuka pengguna
 
 - Sebelum memulai kita harus memasukkan limit terlebih dahulu 
 
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
+![img](https://github.com/NurAkbarr/Number-Toast/blob/74ed9a3437b4512f37f5a5eaeac9985be4a4f9b6/assets/1.png)
+![img](https://github.com/NurAkbarr/Number-Toast/blob/74ed9a3437b4512f37f5a5eaeac9985be4a4f9b6/assets/2.png)
+![img](https://github.com/NurAkbarr/Number-Toast/blob/74ed9a3437b4512f37f5a5eaeac9985be4a4f9b6/assets/3.png)
+![img](https://github.com/NurAkbarr/Number-Toast/blob/74ed9a3437b4512f37f5a5eaeac9985be4a4f9b6/assets/4.png)
+![img](https://github.com/NurAkbarr/Number-Toast/blob/74ed9a3437b4512f37f5a5eaeac9985be4a4f9b6/assets/5.png)
+![img](https://github.com/NurAkbarr/Number-Toast/blob/74ed9a3437b4512f37f5a5eaeac9985be4a4f9b6/assets/6.png)

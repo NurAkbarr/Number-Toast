@@ -1,10 +1,12 @@
+# **UTS PEMOGRAMAN MOBILE 1**
 # **Number Toast**
 
 ```
 Nama    : Nurul Akbar
 NIM     : 312210413
 Kelas   : TI.22.A4
-Matkul  : Pemograman Mobile
+Matkul  : Pemograman Mobile 1
+Dosen   : Donny Maulana S.Kom, M.M.S.I 
 ```
 
 # **Deskripsi**
